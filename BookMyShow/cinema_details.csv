@@ -1,0 +1,140 @@
+cinema_id,city_id,city_name,cinema_name,address
+1,3800,Ahmedabad,PVR Cinemas,"2nd Floor, Acropolis Mall, Thaltej Cross Road, Near Gurudwara, Ahmedabad, Gujarat 380052"
+2,3800,Ahmedabad,PVR Cinemas,"Arved Transcube Plaza, Bandhu Nagar, Vijay Nagar, 132 Feet Ring Road, Ranip, Ahmedabad, Gujarat 382480"
+3,3800,Ahmedabad,PVR Cinemas,"4D Square Mall, Visat - Gandhinagar Highway, Ahmedabad, Gujarat 380005"
+4,3800,Ahmedabad,Cinepolis Nexus,"3rd Floor, Nexus Ahmedabad One, Opp Vastrapur Lake, Ahmedabad, Gujarat"
+5,3800,Ahmedabad,Cinepolis Alpha One Mall,"3rd Floor, Alpha One Mall, Opp Vastrapur Lake, Ahmedabad, Gujarat"
+6,3800,Ahmedabad,Miraj Cinemas Cine Pride,"1st Floor, Krishna Nagar Shopping Centre, Nr. Income Tax Office, Krishna Nagar, Ahmedabad, Gujarat 380051"
+7,3800,Ahmedabad,Miraj City Pulse,"10, Acer Mall, Kankaria Road, Raipur, Opposite BigBazar, Ahmedabad, Gujarat 380001, India"
+8,3800,Ahmedabad,Apple Multiplex,"4, Jyoti Colony, Kankaria, Maninagar, Gita Mandir Road, Near Bhakta Vallabh Dhola Vidya Vihar, Ahmedabad, Gujarat 380002, India"
+9,3800,Ahmedabad,Mukta A2 Cinemas,"3rd Floor, Gulmohar Park Mall, Nr. Vastrapur Lake, Ahmedabad, Gujarat"
+10,3800,Ahmedabad,City Gold Cinema,"Motera, Ahmedabad"
+11,3800,Ahmedabad,Newfangled Miniplex,"Mondeal Retail Park, SG Highway, Ahmedabad"
+12,3800,Ahmedabad,Devi Multiplex Cinema,"Naroda, Ahmedabad"
+13,3800,Ahmedabad,H World Cinema,"Viramgam, Ahmedabad"
+14,3800,Ahmedabad,Sunset Drive In Cinema,"Drive In Road, Thaltej, Ahmedabad, Gujarat 380052"
+15,3800,Ahmedabad,Miraj City Pulse,"1st Floor, City Pulse Mall, Nr. Himalaya Mall, SG Highway, Ahmedabad, Gujarat 380015"
+16,3801,Mumbai,PVR Cinemas,"3, Infinity Mall, Andheri, New Link Rd, Phase D, Shastri Nagar, Versova, Mumbai, Maharashtra 400036"
+17,3801,Mumbai,PVR Icon Cinemas,"Oberoi Mall General AK Vidya Marg, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063"
+18,3801,Mumbai,INOX Megaplex,"2nd Floor, Inorbit Mall, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064"
+19,3801,Mumbai,Cinepolis,"High Street Phoenix, Linking Rd, Lower Parel, Mumbai, Maharashtra 400013"
+20,3801,Mumbai,Fun Cinemas,"2nd Floor, Phoenix Marketcity, LBS Marg, Andheri (West), Mumbai, Maharashtra 400053"
+21,3801,Mumbai,Big Cinemas,"Ground Floor, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076"
+22,3801,Mumbai,INOX Cinemas,"Dadar West, Dadar, Mumbai, Maharashtra 400028"
+23,3801,Mumbai,PVR Cinemas,"Phoenix Marketcity, LBS Marg, Kurla (West), Mumbai, Maharashtra 400070"
+24,3801,Mumbai,"Cinepolis, Inorbit Malad","2nd Floor, Inorbit Mall, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064"
+25,3801,Mumbai,Carnival Cinemas,"R City Mall, LBS Marg, Ghatkopar (East), Mumbai, Maharashtra 400077"
+26,3802,Delhi,PVR Priya,"61, Connaught Place, New Delhi, Delhi 110001"
+27,3802,Delhi,Cinepolis,"Level 3, DLF Place Mall, Saket, New Delhi 110017"
+28,3802,Delhi,INOX,"3rd Floor, Select Citywalk Mall, Saket, New Delhi 110017"
+29,3802,Delhi,Carnival Cinemas,"PVR Plaza, 2nd Floor, R.K. Puram, New Delhi 110026"
+30,3802,Delhi,"PVR Director\s Cut, Vasant Kunj","3rd Floor, Ambience Mall, Vasant Kunj, New Delhi 110070"
+31,3802,Delhi,Big Cinemas,"4th Floor, DLF Emporio, 2nd Floor, Rajiv Chowk, New Delhi 110001"
+32,3802,Delhi,Odeon,"13, Janpath, Connaught Place, New Delhi 110001"
+33,3802,Delhi,M2K Cinemas,"3rd Floor, DLF Promenade, Road 44, Vasant Kunj, New Delhi 110070"
+34,3802,Delhi,INOX,"World Trade Park, NH 8, Sitapura"
+35,3803,Bengaluru,PVR Cinemas,Phoenix Marketcity Mall Whitefield Main Road Mahadevpura
+36,3803,Bengaluru,PVR Orion Mall,"BRIGADE GATEWAY, PVR Orion Mall, 3rd Floor, Dr Rajkumar Rd"
+37,3803,Bengaluru,PVR Cinemas,"The NEXUS Mall, 21-22, Adugodi Main Rd"
+38,3803,Bengaluru,Cinepolis,Phoenix Marketcity Mall Whitefield Main Road Mahadevpura
+39,3803,Bengaluru,Carnival Cinemas,"The Forum Suvarnabhumi, 4th Floor, Outer Ring Road, Mahadevapura"
+40,3803,Bengaluru,INOX,"Forum Shantiniketan, 150, 80 Feet Road, HAL 2nd Stage, Indiranagar"
+41,3803,Bengaluru,Mukta A2 Cinemas,"Orion Mall, Brigade Gateway, 3rd Floor, Dr Rajkumar Rd"
+42,3803,Bengaluru,INOX,"Garuda Mall, 100 Feet Road, Koramangala"
+43,3803,Bengaluru,Cinepolis,"Garuda Mall, 100 Feet Road, Koramangala"
+44,3803,Bengaluru,PVR Cinemas,"Garuda Mall, 100 Feet Road, Koramangala"
+45,3804,Chennai,AGS Cinemas T Nagar,"24, 1, Gopathi Narayanaswami Chetty Rd, opp. to Barathidasan Hospital"
+46,3804,Chennai,PVR Sathyam Cinemas,"8, Thiruvika Rd"
+47,3804,Chennai,Jazz Cinemas LUXE,"Phoenix Market City, No. 142, 2nd Floor, Velachery Rd"
+48,3804,Chennai,Escape Cinemas,"ITC Grand Chola, 41, Greams Road, Nungambakkam"
+49,3804,Chennai,Sathyam Cinemas,"Plot No.174, Radhakrishnan Salai, Velachery"
+50,3804,Chennai,INOX VR Mall,"VR Mall, 40, OMR, Porur"
+51,3804,Chennai City,Cinepolis Forum Vijaya Mall,"Forum Vijaya Mall, 20, GST Road, Velachery"
+52,3804,Chennai City,PVR Cinemas,"Phoenix Market City, No. 142, 2nd Floor, Velachery Rd"
+53,3804,Chennai City,AVS Cinemas,"Anna Salai, Anna Nagar West"
+54,3804,Chennai City,Mayajaal Multiplex,"99, G.N Chetty Rd, Adyar"
+55,3805,Pune,INOX,"Plot No.D, Bund Garden Rd"
+56,3805,Pune,City Pride,"20/1, 2, 3rd Ln, near Anand Residency"
+57,3805,Pune,PVR ICON,"3rd floor, Senapati Bapat Rd"
+58,3805,Pune,Cinepolis,"Seasons Mall, 19/2, Senapati Bapat Road"
+59,3805,Pune,Cinepolis,"Seasons Mall, 19/2, Senapati Bapat Road"
+60,3805,Pune,E-Square Elite,"Xion Mall, Hinjawadi, Pune"
+61,3805,Pune,Fun Time Multiplex,Sinhagad Road
+62,3805,Pune,Abhiruchi Mall,"Plot No. 18, Nagar Road, Pimpri"
+63,3805,Pune,City Pride Royal Cinemas,Rahatani
+64,3805,Pune,Vishal E Square Multiplex,"Vishal E Square Mall, Aundh"
+65,3805,Pune,Mangala Multiplex,"Mangala City Mall, Paud Road"
+66,3806,Kolkata,PVR Galaxy,"5, EM Bypass, Salt Lake City"
+67,3806,Kolkata,Cinepolis,"3rd Floor, City Centre 1 Mall, 118 AJC Bose Road"
+68,3806,Kolkata,INOX,"3rd Floor, South City Mall, 143, AJC Bose Road"
+69,3806,Kolkata,Cinepolis,"Quest Mall, 234, AJC Bose Road"
+70,3806,Kolkata,PVR Icon,"3rd Floor, New Town Central Mall, 3rd Floor, EM Bypass"
+71,3806,Kolkata,Cinepolis,"The Forum, 64, AJC Bose Road"
+72,3806,Kolkata,INOX,"82, Park Street"
+73,3806,Kolkata,PVR Grand,"5, EM Bypass, Salt Lake City"
+74,3806,Kolkata,Cinepolis,"Lake Mall, 234, AJC Bose Road"
+75,3806,Kolkata,Ajanta Cinema,"17/1, Lenin Sarani"
+76,3806,Kolkata,New Empire Cinema,"137, Park Street"
+77,3807,Kochi,PVR Cinemas,"NH 47, Old NH 47"
+78,3807,Kochi,Padma Cinema 2K 3D,"Level 1, Shenoy Cinemax, Mahatma Gandhi Rd"
+79,3807,Kochi,Q Cinemas,"Gold Souk Grandé Mall, Panvel - Kochi - Kanyakumari Hwy"
+80,3807,Kochi,Carnival Cinemas,"Infopark, Kakkanad"
+81,3807,Kochi,AVS Cinemas,"Edappally, Kochi"
+82,3807,Kochi,Cinepolis,"Broadway, Ernakulam"
+83,3807,Kochi,PVR Cinemas,"Oberon Mall, Kaloor"
+84,3807,Kochi,INOX,"Seaport, Kochi"
+85,3807,Kochi,Padu Galaxy Cinema,"Padu, Along, West Siang district, Arunachal Pradesh 791111"
+86,3806,Hyderabad,PVR RK Cineplex,"Plot no.12, RK Complex, RK cineplex, Road No. 2, opp. Banjara Hills"
+87,3806,Hyderabad,Viswanath 70 MM AC,"G92X+2WX, KPHB Main Rd"
+88,3806,Hyderabad,PVR Cinemas,"4th floor PVR limited, Ward no: 89 metro station SY no 1/1, 1/2, 1/3, 3/2, 6/1, 6/2, NH 65, opp. to Panjagutta"
+89,3806,Hyderabad,INOX,"Plot No. 30 (Old No.10), Road No. 4, Jubilee Hills, Gachibowli"
+90,3806,Hyderabad,Cinepolis,"Plot No 83, Road No 4, Jubilee Hills, Hitex City, Madhapur"
+91,3806,Hyderabad,AVS Cinemas,"Plot No 83, Road No 4, Jubilee Hills, Hitex City, Madhapur"
+92,3807,Jaipur,Raj Mandir Cinema,"C-16, Bhagwan Das Rd"
+93,3807,Jaipur,First Cinema,"4th Floor Jaipur Cityplex Mall, Tonk Rd"
+94,3807,Jaipur,Golcha Cinema,"WR8C+RHG, Chaura Rasta Rd"
+95,3807,Jaipur,Cinepolis,"The Arc, A-3, Gopalpura, Tonk Rd"
+96,3807,Jaipur,Fun Cinemas,"City Square Mall, Pratap Nagar"
+97,3807,Jaipur,INOX,"World Trade Park, NH 8, Sitapura"
+98,3807,Jaipur,Cinepolis,"MGF Metropolitan Mall, Mansarovar"
+99,3807,Jaipur,PVR Cinemas,"Crystal Palms Mall, 2nd Floor, Sanganer"
+100,3807,Jaipur,Carnival Cinemas,"Triton Mega Mall, Tonk Rd"
+101,3808,Agra,Mehra Theatre,"1, Gwalior Rd"
+102,3808,Agra,Gold Cinema Agra,"Ashok Cosmos Mall, 7th, Wazirpura Rd"
+103,3808,Agra,7D Theater,271 RP Malik Road Shahazadi Mandi
+104,3809,Varanasi,JHV Cinemas,"678, The Mall Rd"
+105,3809,Varanasi,BLW Cinema Club,N10-79-H-18-K
+106,3809,Varanasi,Chhavi Mahal,"Bari Bazar Rd, near city girls\ School"
+107,3810,Amritsar,Panther Cinema Theatre,JRVQ+67X
+108,3810,Amritsar,Sukh Sagar Cinema,"194, Hall Road"
+109,3810,Amritsar,Anaam Theatre,"JVPC+V36, Taylor Road"
+110,3811,Surat,Rupali Cinema Surat,Rander Rd1.
+111,3811,Surat,Time Cinema Surat,"Fortune The 1.Shopping Island, Near Galaxy Circle Fortune The Shopping Island."
+112,3811,Surat,Rupam Cinema1,Rup1.am Cinema Rd
+113,3812,Chennai City,Sathyam,Royapettah
+114,3812,Chennai City,Escape,Royapettah
+115,3812,Chennai City,Devi,Mount Road
+116,3812,Chennai City,Anna,Mount Road
+117,3812,Chennai City,Woodlands,Royapettah
+118,3812,Chennai City,Inox,Mylapore
+119,3812,Chennai City,Albert,Egmore
+120,3812,Chennai City,Sangam,Kilpauk
+121,3812,Chennai City,Ega,Kilpauk
+122,3812,Chennai City,PVR Ampa,Aminjikarai
+123,3812,Chennai City,Palazzo,Vadapalani
+124,3812,Chennai City,Kamala,Vadapalani
+125,3812,Chennai City,AVM Rajeshwari,Vadapalani
+126,3812,Chennai City,Udhayam,KK Nagar
+127,3812,Chennai City,AGS T.Nagar,T.Nagar
+128,3812,Chennai City,Casino,Mount Road
+129,3812,Chennai City,Raj,Saidapet
+130,3812,Chennai City,I Dreams,Royapuram
+131,3812,Chennai City,Bharath,Wahermenpet
+132,3812,Chennai City,Maharani,Wahermenpet
+133,3812,Chennai City,MM,Tondiarpet
+134,3812,Chennai City,Gopi Krishna,Ayanavaram
+135,3812,Chennai City,Basha,George Town
+136,3812,Chennai City,Mahalakshmi,Otteri
+137,3812,Chennai City,Saravana,Otteri
+138,3812,Chennai City,Balaji,Otteri
+139,3812,Chennai City,Agasthya,Tondiarpet
