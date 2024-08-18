@@ -9,7 +9,7 @@
  * - Efficient word lookup using a Trie data structure.
  * - Real-time spelling error detection and correction suggestions.
  * - Color-coded output for clear identification of errors and corrections.
- * 
+ * @version 1.2
  * @author Khushal Savalakha
  * @since 2023-09-10
  */
