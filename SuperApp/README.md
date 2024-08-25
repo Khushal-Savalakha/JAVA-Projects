@@ -136,10 +136,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## Acknowledgements
 
-Special thanks to the development team for their contributions.
-
----
 
 This version includes additional flowcharts to visualize the interactions between `BookMyShow` and `SuperApp`. Let me know if there's anything else you'd like to add or refine!
